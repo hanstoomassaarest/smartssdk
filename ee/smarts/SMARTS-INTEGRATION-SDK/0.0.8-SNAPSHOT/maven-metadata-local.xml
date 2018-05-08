@@ -2,22 +2,22 @@
 <metadata modelVersion="1.1.0">
   <groupId>ee.smarts</groupId>
   <artifactId>SMARTS-INTEGRATION-SDK</artifactId>
-  <version>0.0.7-SNAPSHOT</version>
+  <version>0.0.8-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20180507081219</lastUpdated>
+    <lastUpdated>20180508112345</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.7-SNAPSHOT</value>
-        <updated>20180507081219</updated>
+        <value>0.0.8-SNAPSHOT</value>
+        <updated>20180508112345</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.7-SNAPSHOT</value>
-        <updated>20180507081219</updated>
+        <value>0.0.8-SNAPSHOT</value>
+        <updated>20180508112345</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
